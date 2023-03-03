@@ -1,0 +1,1 @@
+# homeassistant-openhardwaremonitor2
